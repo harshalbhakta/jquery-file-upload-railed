@@ -68,11 +68,11 @@ Version number corresponds to the version number of the Jquery-File-Upload's ver
 
 jquery-file-upload-railed a.b.c.* => jQuery-File-Upload a.b.c
 
-[jquery-file-upload-railed 9.5.7.0](https://github.com/harshalbhakta/jquery-file-upload-railed/releases/tag/9.5.7.0) => [jQuery-File-Upload 9.5.7](https://github.com/blueimp/jQuery-File-Upload/releases/tag/9.5.7)
+[jquery-file-upload-railed 9.5.7.0](https://github.com/harshalbhakta/jquery-file-upload-railed/releases/tag/v9.5.7.0) => [jQuery-File-Upload 9.5.7](https://github.com/blueimp/jQuery-File-Upload/releases/tag/9.5.7)
 
-[jquery-file-upload-railed 9.5.7.1](https://github.com/harshalbhakta/jquery-file-upload-railed/releases/tag/9.5.7.1) => [jQuery-File-Upload 9.5.7](https://github.com/blueimp/jQuery-File-Upload/releases/tag/9.5.7)
+[jquery-file-upload-railed 9.5.7.1](https://github.com/harshalbhakta/jquery-file-upload-railed/releases/tag/v9.5.7.1) => [jQuery-File-Upload 9.5.7](https://github.com/blueimp/jQuery-File-Upload/releases/tag/9.5.7)
 
-[jquery-file-upload-railed 9.5.8.0](https://github.com/harshalbhakta/jquery-file-upload-railed/releases/tag/9.5.8.0) => [jQuery-File-Upload 9.5.8](https://github.com/blueimp/jQuery-File-Upload/releases/tag/9.5.8)
+[jquery-file-upload-railed 9.5.8.0](https://github.com/harshalbhakta/jquery-file-upload-railed/releases/tag/v9.5.8.0) => [jQuery-File-Upload 9.5.8](https://github.com/blueimp/jQuery-File-Upload/releases/tag/9.5.8)
 
 If something needs to be fixed in the gem without bumping the jQuery-File-Upload version, the fourth digit will be bumped.
 
